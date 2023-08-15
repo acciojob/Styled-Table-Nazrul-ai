@@ -1,1 +1,38 @@
 /* your code */
+ .col1{
+        background-color: white;
+        color:rgb(7, 5, 1);
+        }
+        .col2{
+            background-color: gray;
+            color: white;
+
+        }
+        .col3{
+            background-color:blue ;
+            color: white;
+        }
+        table{
+           
+            width: 50%;
+            border: 1px solid; 
+       
+            /* Adjust this value to control the roundness */
+            /* column-gap: 0; */
+          /* border-collapse: collapse;  */
+         /* border-radius: 10px; */
+         text-align: center;
+    /* padding: 20px; */
+            /* border: 1px solid; */
+            /* border: 1px solid;
+            border-radius: 50px ; */
+          
+        }
+        table{
+            border-radius: 20px;
+            border-collapse: collapse;
+        }
+        th, td {
+            margin: 15px;
+            padding: 15px;
+}
